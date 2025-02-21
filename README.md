@@ -4,3 +4,8 @@ I enjoy working in Java, Python, and HTML/CSS/JS, but I love learning new langua
 
 More details about my projects can be found on my website, [karolina.mgdubiel.com](https://karolina.mgdubiel.com). 🚀✨
 
+I love going to large hackathons; so far, I've been to:
+- ImpactHack @ GT '23
+- Hack the North @ UWaterloo '24
+- TreeHacks @ Stanford '25
+

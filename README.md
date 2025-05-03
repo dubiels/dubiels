@@ -8,6 +8,7 @@ I love going to large hackathons; so far, I've been to:
 - ImpactHack @ GT '23
 - Hack the North @ UWaterloo '24
 - TreeHacks @ Stanford '25
+- HackUPC @ The Polytechnic University of Catalonia
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />

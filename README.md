@@ -5,10 +5,10 @@ I most ofen build with Java, Python, and HTML/CSS/JS, but I also love learning n
 More details about my projects can be found on my website, [karolina.mgdubiel.com](https://karolina.mgdubiel.com). 🚀✨
 
 I love going to large hackathons; so far, I've been to:
-- ImpactHack @ GT '23
+- ImpactHack @ Georgia Tech '23
 - Hack the North @ UWaterloo '24
 - TreeHacks @ Stanford '25
-- HackUPC @ The Polytechnic University of Catalonia '25
+- HackUPC @ Barcelona Tech '25
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />

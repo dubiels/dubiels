@@ -4,11 +4,12 @@ I most ofen build with Python, Java, and HTML/CSS/JS (fullstack web dev), but I 
 
 More details about my projects can be found on my website, [karolina.mgdubiel.com](https://karolina.mgdubiel.com). 🚀✨
 
-I love going to large hackathons; so far, I've been to:
+I love going to large hackathons; so far, I've been to / am going to:
 - ImpactHack @ Georgia Tech '23
 - Hack the North @ UWaterloo '24
 - TreeHacks @ Stanford '25
 - HackUPC @ Barcelona Tech '25
+- YHack @ Yale '26
 
 
 

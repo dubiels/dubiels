@@ -9,6 +9,7 @@ I love going to large hackathons; so far, I've been to / am going to:
 - Hack the North @ UWaterloo '24
 - TreeHacks @ Stanford '25
 - HackUPC @ Barcelona Tech '25
+- LAHacks @ UCLA '26
 
 and a lot of smaller ones too :D
 
